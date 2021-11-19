@@ -1,0 +1,2 @@
+# markoblog
+Django blog 
